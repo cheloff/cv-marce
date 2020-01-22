@@ -1,16 +1,13 @@
-*CV template adapted from* [S.
+<!-- *CV template adapted from* [S.
 Miller](https://github.com/svmiller/svm-r-markdown-templates)
-
 [PDF version
-available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
-
-Education
+available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)-->
+Instrucción Formal
 =========
 
-**Ph.D., Natural Resource Sciences, Specialization Applied Ecology**
-2015 - 19  
-School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
-USA
+**Ingeniero Ambiental**
+2014 - 19  
+Facultad de Cciencias Agropecuarias y Recursosn Naturales, Universidad Técnica de Cotopaxi, Latacunga - Ecuador
 
 <!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
 <!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
