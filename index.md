@@ -6,8 +6,8 @@ Instrucción Formal
 =========
 
 **Ingeniero Ambiental**
-2014 - 19  
-Facultad de Cciencias Agropecuarias y Recursosn Naturales, Universidad Técnica de Cotopaxi, Latacunga - Ecuador
+2014 - 2019  
+Facultad de Ciencias Agropecuarias y Recursosn Naturales, Universidad Técnica de Cotopaxi, Latacunga - Ecuador
 
 <!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
 <!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
