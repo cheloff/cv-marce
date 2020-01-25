@@ -10,13 +10,13 @@ knit: (function(inputFile, encoding) {
          output_format = "all") })
 geometry: margin=.7in
 title: "CV"
-author: JESSICA L. BURNETT
-orcid:  0000-0002-0896-5099
+author: MARCELO FERNANDO AMORES PALMA
+orcid:  0000-0002-0337-0467
 fontawesome: yes
-email: jessicaleighburnett@gmail.com
-github: trashbirdecology
+email: marceloamores61@gmail.com
+github: cheloff
 twitter: trashbirdecol
-phone: "+1 352 792 5425"
+phone: "0995052928  032716384"
 updated: yes
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
@@ -30,8 +30,8 @@ urlcolor: blue
 
 # Education  
 
-**Ph.D., Natural Resource Sciences, Specialization Applied Ecology** \hfill 2015 - 19  
-School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka USA
+**Ingeniero en Medio Ambiente** \hfill 2014 - 2019  
+Facultad de Ciencias Agropecuarias y Recursos Naturales, Universidad Técnica de Cotopaxi, Latacunga - Ecuador
 
 <!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
 <!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
